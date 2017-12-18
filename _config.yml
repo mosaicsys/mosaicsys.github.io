@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               MosaicSys and the Active Obtitian
+tagline:             'MosaicSys and the Active Obtitian blogging and static web site'
+description:         ''
+url:                 http://mosaicsys.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mosaic Systems Inc.
+  url:               http://mosaicsys.github.io
+  email:             blog [at] mosaicsystems.com
+
+# Custom vars
+version:             1.0.0
