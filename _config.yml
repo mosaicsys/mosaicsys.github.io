@@ -1,8 +1,8 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
+# Use of `relative_permalinks` ensures post links from the index work properly. - however this appears to have been deprecated by github.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:               MosaicSys and the Active Obtitian
