@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-    This is a blogging and static site page for Mosaic Systems Inc. and for the (MosaicLibCS)[https://github.com/mosaicsys/MosaicLibCS] project.
+    This is a blogging and static site page for Mosaic Systems Inc. and for the MosaicLibCS [https://github.com/mosaicsys/MosaicLibCS] project.
 </p>
 
 ## Setup
